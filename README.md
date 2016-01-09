@@ -3,32 +3,40 @@ A description of me on github - think of it as a better resume :3 Obviously stil
 
 
 ## Experience
-### Activision Blizzard - Raven Software
+### Activision Blizzard - Raven Software - [Call of Duty Online](http://callofduty.wikia.com/wiki/Call_of_Duty_Online)
+* Worked on the Major Mode Gameplay Team to polish existing game modes and prototype new ones.
+* Developed a variant of the most popular PVE game mode;  Utilized iterative design and user testing.
+* Owned an engine internal tool to visualize weapon attachments that improved animation team efficiency.
+* Optimized game critical systems and ported features from previous projects to improve player experience.
 
 ### Amazon - AWS Silk
+* Worked on the Discovery and Rover teams to architect a large scale metadata gathering and extraction service.
+* Built a pipeline to gather millions of webpages, train data sets, and tune them for machine learning analysis.
+* 58% more accurate in some localizations, and overall 4% more accurate than leading competitors.
 
 ### UW-Madison - Mobile Learning Incubator
-
+* [Open source field research platform for identifying plants](https://github.com/fielddaylab/biocore-plant-id-tool) on iOS and deployed to a test group of ~100 UW students.
+* Worked with another to make an [open source iOS audio cropper](https://github.com/fielddaylab/AudioVisualizer), and integrated it into an existing codebase.
+* Created a ['Dungeon Manager' Tool](https://github.com/fielddaylab/ARISRealTimeMonitor) to give game creators more control over their experience in [ARIS](https://github.com/ARISGames).
 
 ## Projects
-### Monologue
 
-### IDE
+### [Monologue](https://github.com/Phildo/monologue)
+* Hacked up a HTML5/JS typing game with dynamic phrase generation on a train ride from Chicago to San Fran.
+* Featured at GDC, Gamejolt, Offworld, and Vsauce3. >80k Plays. http://gamejolt.com/games/monologue/56005
 
-### Minecraft mod
+### [Interactive Dance Environment](https://www.youtube.com/watch?v=FzW7VeBN5ZY
+* Created a modularized, touchless programming IDE/workflow using two Kinects and a Leap Motion.
 
-### horton
+### Minecraft Pizza++ Mod
+* Used a beta version of Forge and decompiled/deobfuscate Minecraft’s Java source
+* Overhauled farming mechanics and added new items :pizza:.
+
+### Horton the Plant
+* @HortonThePlant can call, tweet, or text you his feelings based off of multiple sensor data inputs.
 
 ### textdate
-
-
-## Interests
-
-### Music
-
-### Language
-
-### Hackathons
+* Used Naive Bayes and Google’s Ngram set to accurately find the year that an English novel was written in.
 
 
 ## Awards and Activities
@@ -87,7 +95,16 @@ Relevant courses listed below. It isn't a fully comprehensive list, and there is
 * Videogames and Learning
 
 
-#### Favorites
+#### Other Favorites
 * Shamanism
 * Horticulture
 * Vampire Literature and Film
+
+
+## Interests
+
+### Music
+
+### Language
+
+### Hackathons
