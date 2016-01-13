@@ -9,12 +9,12 @@ A description of me on github - think of it as a better resume :3 Obviously stil
 * Owned an engine internal tool to visualize weapon attachments that improved animation team efficiency.
 * Optimized game critical systems and ported features from previous projects to improve player experience.
 
-### Amazon - AWS Silk
+### Amazon - [AWS Silk](https://en.wikipedia.org/wiki/Amazon_Silk)
 * Worked on the Discovery and Rover teams to architect a large scale metadata gathering and extraction service.
 * Built a pipeline to gather millions of webpages, train data sets, and tune them for machine learning analysis.
 * 58% more accurate in some localizations, and overall 4% more accurate than leading competitors.
 
-### UW-Madison - Mobile Learning Incubator
+### UW-Madison - Mobile Learning Incubator (Now [Field Day Labs](http://wid.wisc.edu/research/fielddaylab/))
 * [Open source field research platform for identifying plants](https://github.com/fielddaylab/biocore-plant-id-tool) on iOS and deployed to a test group of ~100 UW students.
 * Worked with another to make an [open source iOS audio cropper](https://github.com/fielddaylab/AudioVisualizer), and integrated it into an existing codebase.
 * Created a ['Dungeon Manager' Tool](https://github.com/fielddaylab/ARISRealTimeMonitor) to give game creators more control over their experience in [ARIS](https://github.com/ARISGames).
@@ -34,6 +34,7 @@ A description of me on github - think of it as a better resume :3 Obviously stil
 
 ### Horton the Plant
 * @HortonThePlant can call, tweet, or text you his feelings based off of multiple sensor data inputs.
+* Horton even made it into the Boston Globe print!
 
 ### textdate
 * Used Naive Bayes and Google’s Ngram set to accurately find the year that an English novel was written in.
