@@ -3,7 +3,7 @@ A description of me on github - think of it as a better resume :3 Obviously stil
 
 
 ## Experience
-### Activision Blizzard - Raven Software - [Call of Duty Online](http://callofduty.wikia.com/wiki/Call_of_Duty_Online)
+### Activision|Blizzard - Raven Software - [Call of Duty Online](http://callofduty.wikia.com/wiki/Call_of_Duty_Online)
 * Worked on the Major Mode Gameplay Team to polish existing game modes and prototype new ones.
 * Developed a variant of the most popular PVE game mode;  Utilized iterative design and user testing.
 * Owned an engine internal tool to visualize weapon attachments that improved animation team efficiency.
