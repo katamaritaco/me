@@ -28,11 +28,11 @@ A description of me on github - think of it as a better resume :3 Obviously stil
 ### [Interactive Dance Environment](https://www.youtube.com/watch?v=FzW7VeBN5ZY)
 * Created a modularized, touchless programming IDE/workflow using two Kinects and a Leap Motion.
 
-### Minecraft Pizza++ Mod
+### [Minecraft Pizza++ Mod](https://github.com/katamaritaco/WhatEverYouWantMinecraft)
 * Used a beta version of Forge and decompiled/deobfuscate Minecraft’s Java source
 * Overhauled farming mechanics and added new items :pizza:.
 
-### Horton the Plant
+### [Horton the Plant](https://github.com/katamaritaco/hortonHacksMIT)
 * @HortonThePlant can call, tweet, or text you his feelings based off of multiple sensor data inputs.
 * Horton even made it into the Boston Globe print!
 
