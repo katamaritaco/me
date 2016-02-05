@@ -17,7 +17,7 @@ A description of me on github - think of it as a better resume :3 Obviously stil
 ### UW-Madison - Mobile Learning Incubator (Now [Field Day Labs](http://wid.wisc.edu/research/fielddaylab/))
 * [Open source field research platform for identifying plants](https://github.com/fielddaylab/biocore-plant-id-tool) on iOS and deployed to a test group of ~100 UW students.
 * Worked with another to make an [open source iOS audio cropper](https://github.com/fielddaylab/AudioVisualizer), and integrated it into an existing codebase.
-* Created a ['Dungeon Manager' Tool](https://github.com/fielddaylab/ARISRealTimeMonitor) to give game creators more control over their experience in [ARIS](https://github.com/ARISGames).
+* Created a ['Dungeon Master' Tool](https://github.com/fielddaylab/ARISRealTimeMonitor) to give game creators more control over their experience in [ARIS](https://github.com/ARISGames).
 
 ## Projects
 
@@ -81,19 +81,23 @@ Relevant courses listed below. It isn't a fully comprehensive list, and there is
 * Software Engineering
 * Graphics
 
+
 #### Linguistics
 * Natural Language Processing
 * Linguistic Field Methods (Ukrainian)
 * Historical Linguistics
+* Endangered Languages
 * Morphology
 * Phonology
 * Semantics
 * Syntax
 
+
 #### Game Development
 * Game Design
 * Design in Virtual Reality
 * Videogames and Learning
+* Educational Entrepreneurship (emphasis on games)
 
 
 #### Other Favorites
