@@ -102,12 +102,3 @@ Relevant courses listed below. It isn't a fully comprehensive list, and there is
 * Shamanism
 * Horticulture
 * Vampire Literature and Film
-
-
-## Interests
-
-### Music
-
-### Language
-
-### Hackathons
