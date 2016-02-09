@@ -1,7 +1,7 @@
 # Nick Heindl Resume
 
 ## Professional Experience
-### [Flippfly Games](http://flippfly.com/) (2016)
+### [Flippfly Games](http://flippfly.com/) - TBA (2016)
 * Contracted to be responsible for working with Unity3D projects and the new TVOS platform for AppleTV.
 
 ### Activision|Blizzard - [Raven Software](http://www.ravensoftware.com/) - [Call of Duty Online](http://callofduty.wikia.com/wiki/Call_of_Duty_Online) (2015)
