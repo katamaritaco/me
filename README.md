@@ -29,20 +29,26 @@ This is me on New Years Eve 2014/2015 in Egypt! :camel:
 * [Minecraft Mod](https://github.com/katamaritaco/WhatEverYouWantMinecraft) - Brought :pizza: and overhauled farming :mushroom: alongside a large mod that gives PvP, Skills, and Quests.
 * [C.A.V.E. Virtual Reality Project](https://blogs.discovery.wisc.edu/ds501/category/projects/cave-archeological-virtual-excursions/) - A project I was on a long while ago, where we brought together some neat game and puzzle design to virtual archaeology. 
 
-## Projects and Talks
+## Current Projects and Talks
 * [GitHub](http://github.com/katamaritaco?tab=repositories) - A lot of assorted projects are within [here](https://github.com/katamaritaco/Misc-Projects)
 * [Project Euler](https://projecteuler.net) - PE is great to actually try to put some of the theory you learn in school to use - and learn a bunch in the process! My highest solved problem is 407, although I did skip around a lot :sunglasses:.
 * Working my way through [Nucl.ai's game ai course](http://courses.nucl.ai/) and enjoying it a bunch.
 * I love giving talks and hosting events. You can find some [here](https://github.com/UW-UPL/Talks), and I've given other talks at [Madison Indies Meetup](http://www.meetup.com/madison-indies/). I've hosted a bunch of events from hackathons, to roundtables on internships.
 
+
 ## Other Interests 
 
+### Language
+I've had a fascination with language since I can remember. I've experience learning German:de: and a bit of Japanese:jp:, French:fr:, and Mandarin:cn:. 
+
+I'm currently working on a few linguistic focused projects: an etymology of 'dank', an 'awesome-list' of linguistic resources, and possibly a paper on 'intuitive conjectures' in the field. I'll update this more as they progress.
+
 ### Hackathons
-I've learned a lot by attending numerous hackathons and even giving talks about them too! Here are some I've attended: BoilerMake, MHacks, hackMIT, HackTech, Facebook Midwest Hack, etc.
+I've learned a lot by attending numerous hackathons and even giving talks about them too! During my 'hack career' I've worked with awesome people to make some amazing hacks. Some examples: A plant that tweets its feelings and a programming IDE that translates real life dance moves into usable python. 
+
+Here are some I've attended: BoilerMake, MHacks, hackMIT, HackTech, Facebook Midwest Hack, etc.
 
 ### Music
-I love music. These days you can suualyl find me listening to rinse or sub. scratch
+I love music; all different kinds. Particularly fond of old skool jungle and uk 'ardcore, drum and bass, jazz, classic rock, etc. One of the happiest moments of my life was at a rave skankin' to Calyx and Teebee with 30 of the biggest Junglists in the Pacific Northwest :mega: I have two technics 1200 turntables and like to scratch records every now and then :minidisc::minidisc:
 
-### Language
-I'm currently working on two linguistic focused projects: an etymology of 'dank' and a list of linguistic resources. I'll update this more as they progress.
-
+These days I've been listening to [rinsefm](http://www.rinse.fr/player/) and [subfm](http://www.sub.fm/) a decent amount.
