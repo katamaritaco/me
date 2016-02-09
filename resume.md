@@ -1,7 +1,7 @@
 # Nick Heindl Resume
 
 ## Experience
-### Activision|Blizzard - Raven Software - [Call of Duty Online](http://callofduty.wikia.com/wiki/Call_of_Duty_Online)
+### Activision|Blizzard - [Raven Software](http://www.ravensoftware.com/) - [Call of Duty Online](http://callofduty.wikia.com/wiki/Call_of_Duty_Online)
 * Worked on the Major Mode Gameplay Team to polish existing game modes and prototype new ones.
 * Developed a variant of the most popular PVE game mode;  Utilized iterative design and user testing.
 * Owned an engine internal tool to visualize weapon attachments that improved animation team efficiency.
@@ -17,7 +17,7 @@
 * Worked with another to make an [open source iOS audio cropper](https://github.com/fielddaylab/AudioVisualizer), and integrated it into an existing codebase.
 * Created a ['Dungeon Master' Tool](https://github.com/fielddaylab/ARISRealTimeMonitor) to give game creators more control over their experience in [ARIS](https://github.com/ARISGames).
 
-## Projects
+## Some Projects
 
 ### [Monologue](https://github.com/Phildo/monologue)
 * Hacked up a HTML5/JS typing game with dynamic phrase generation on a train ride from Chicago to San Fran.
