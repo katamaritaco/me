@@ -14,36 +14,36 @@ This is me on New Years Eve 2014/2015 in Egypt! :camel:
 ![Picture of me in Egypt](nick.jpg)
 
 
-
-
-
-
 ## Resume
 
-### [Markdown Resume](resume.md) (Usually most up-to-date)
+### [Markdown Resume](resume.md) (Usually most up-to-date and has links!)
 
 ### [Recent-ish PDF](ResumeNickHeindl2016Spring.pdf)
 
 
 
+## Personal Game stuff
+* Wisconsin Game Dev Resources
+* Monologue
+* Twine
+* AoE Map
+* Minecraft Mod
+* CAVE
 
+## Projects and Talks
+* [GitHub](http://github.com/katamaritaco?tab=repositories) - A lot of assorted projects are within [here](https://github.com/katamaritaco/Misc-Projects)
+* Project Euler
+* Working through [Nucl.ai's game ai course](http://courses.nucl.ai/)
+* I love giving talks. You can find some [here](https://github.com/UW-UPL/Talks), and I've given other talks at Madison Indies Meetup. I'm going to try and record more in the future.
 
-
-
-
-
-
-
-
-
-
-
-
-
-## Interests
-
-### Music
-
-### Language
+## Other Interests 
 
 ### Hackathons
+I've learned a lot by attending numerous hackathons and even giving talks about them too! Here are some I've attended: BoilerMake, MHacks, hackMIT, HackTech, Facebook Midwest Hack, etc.
+
+### Music
+I love music. These days you can suualyl find me listening to rinse or sub. scratch
+
+### Language
+I'm currently working on two linguistic focused projects: an etymology of 'dank' and a list of linguistic resources. I'll update this more as they progress.
+
