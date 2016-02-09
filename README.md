@@ -18,6 +18,16 @@ This is me on New Years Eve 2014/2015 in Egypt! :camel:
 
 
 
+## Resume
+
+### [Markdown Resume](resume.md)
+
+### [Recent-ish PDF](ResumeNickHeindl2016Spring.pdf)
+
+
+
+
+
 
 
 
