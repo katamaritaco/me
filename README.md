@@ -9,8 +9,8 @@ Besides working on some personal projects and things for the [Undergrad Projects
 I also have a site [here](http://nheindl.com/), but I keep this repo more up-to-date. Updating this repo is just so much nicer, and allows me to throw stuff up faster without worrying about some of the cruft that can come with maintaining a traditional personal site (cough cough .css). Plus, it is github, so it is a lot easier to browse through projects :+1:
 
 
-
-![Picture of me](nick.jpg)
+This is me on New Years Eve 2014/2015 in Egypt! :camel:
+![Picture of me in Egypt](nick.jpg)
 
 
 
