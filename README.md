@@ -23,6 +23,7 @@ This is me on New Years Eve 2014/2015 in Egypt! :camel:
 
 ## Personal Game stuff
 * [Wisconsin Game Dev Resources](https://github.com/katamaritaco/WiscoGameDev) - List of resources for game development in Wisconsin
+* [IGDA Scholars Report](http://scholars.igda.org/former-scholars/) - Writeup about my GDC2015 experience with the IGDA.
 * [Monologue](http://gamejolt.com/games/monologue/56005) - Made with [Phildo](https://github.com/Phildo) during the [Train Jam](http://trainjam.com/updates/207), a game jam on a train from Chicago to San Fran.
 * ["Look Up" Twine](https://github.com/katamaritaco/LookUp) - My attempt at creating a personal, narrative driven experience.
 * [AoE II HD Map](https://steamcommunity.com/sharedfiles/filedetails/?id=287287878) - Toughed it out and used the super old map editor to build a mildly popular map in one of the best games of all time :european_castle:
