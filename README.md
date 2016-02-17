@@ -1,4 +1,4 @@
-# Me! Nick Heindl
+# Me! Nick Heindl - I love to make things :wrench:
 
 Welcome to my Me (:tm:) profile. Shouts to my friend [L O Z O R D](https://github.com/LOZORD/me) for the idea and inspiration.
 
