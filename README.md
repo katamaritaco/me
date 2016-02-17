@@ -26,6 +26,7 @@ This is me on New Years Eve 2014/2015 in Egypt! :camel:
 * [IGDA Scholars Report](http://scholars.igda.org/former-scholars/) - Writeup about my GDC2015 experience with the IGDA.
 * [Monologue](http://gamejolt.com/games/monologue/56005) - Made with [Phildo](https://github.com/Phildo) during the [Train Jam](http://trainjam.com/updates/207), a game jam on a train from Chicago to San Fran.
 * ["Look Up" Twine](https://github.com/katamaritaco/LookUp) - My attempt at creating a personal, narrative driven experience.
+* ["Pacemaker" Game](https://github.com/katamaritaco/Misc-Projects/tree/master/Pacemaker/distro) - GGJ 2013 rhythm/runner game made with some buddies. We made our own engine in html5/js.
 * [AoE II HD Map](https://steamcommunity.com/sharedfiles/filedetails/?id=287287878) - Toughed it out and used the super old map editor to build a mildly popular map in one of the best games of all time :european_castle:
 * [Minecraft Mod](https://github.com/katamaritaco/WhatEverYouWantMinecraft) - Brought :pizza: and overhauled farming :mushroom: alongside a large mod that gives PvP, Skills, and Quests.
 * [C.A.V.E. Virtual Reality Project](https://blogs.discovery.wisc.edu/ds501/category/projects/cave-archeological-virtual-excursions/) - A project I was on a long while ago, where we brought together some neat game and puzzle design to virtual archaeology. 
