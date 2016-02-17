@@ -30,6 +30,9 @@
 ### [Interactive Dance Environment](https://www.youtube.com/watch?v=FzW7VeBN5ZY)
 * Created a modularized, touchless programming IDE/workflow using two Kinects and a Leap Motion.
 
+### [Graphics Project: Moshball](https://github.com/katamaritaco/Misc-Projects/tree/master/CS559Proj3/CS559Proj3)
+* Created a game using OpenGL that used Box2d for physics.
+
 ### [Minecraft Pizza++ Mod](https://github.com/katamaritaco/WhatEverYouWantMinecraft)
 * Used a beta version of Forge and decompiled/deobfuscate Minecraft’s Java source
 * Overhauled farming mechanics and added new items :pizza:.
