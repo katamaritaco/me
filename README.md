@@ -23,7 +23,7 @@ This is me on New Years Eve 2014/2015 in Egypt! :camel:
 
 ## Personal Game stuff
 * [Monologue](http://gamejolt.com/games/monologue/56005) - Game made with [Phildo](https://github.com/Phildo) during the [Train Jam](http://trainjam.com/updates/207), a game jam on a train from Chicago to San Fran.
-  * Featured at GDC, Over 90,000 plays, and Leigh Alexander did an awesome [article on offworld](https://boingboing.net/2015/03/25/play-it-now-monologue.html)!
+  * Featured at [GDC](http://www.gdconf.com/), Over 90,000 plays, and Leigh Alexander did an awesome [article on offworld](https://boingboing.net/2015/03/25/play-it-now-monologue.html)!
 * [Wisconsin Game Dev Resources](https://github.com/katamaritaco/WiscoGameDev) - List of resources for game development in Wisconsin
 * [IGDA GDC Scholars Report](http://scholars.igda.org/former-scholars/) - Writeup about my GDC2015 experience with the IGDA.
 * ["Look Up" Twine](https://github.com/katamaritaco/LookUp) - My attempt at creating a personal, narrative driven experience.
@@ -35,7 +35,7 @@ This is me on New Years Eve 2014/2015 in Egypt! :camel:
 ## Current Projects and Talks
 * [GitHub](http://github.com/katamaritaco?tab=repositories) - A lot of assorted projects are within [here](https://github.com/katamaritaco/Misc-Projects)
 * [Project Euler](https://projecteuler.net) - PE is great to actually try to put some of the theory you learn in school to use - and learn a bunch in the process! My highest solved problem is 407, although I did skip around a lot :sunglasses:.
-* Working my way through [Nucl.ai's game ai course](http://courses.nucl.ai/) and enjoying it a bunch.
+* Working my way through [Nucl.ai's Game AI course](http://courses.nucl.ai/) and enjoying it a bunch.
 * I love giving talks and hosting events. You can find some [here](https://github.com/UW-UPL/Talks), and I've given other talks at [Madison Indies Meetup](http://www.meetup.com/madison-indies/). I've hosted a bunch of events from hackathons, to roundtables on internships.
 
 
