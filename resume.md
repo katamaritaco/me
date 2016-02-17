@@ -44,6 +44,7 @@
 ### textdate
 * Used Naive Bayes and Google’s Ngram set to accurately find the year that an English novel was written in.
 
+### Check out other Game projects [here](https://github.com/katamaritaco/me/blob/master/README.md#personal-game-stuff)
 
 ## Awards and Activities
 
