@@ -30,7 +30,7 @@ This is me on New Years Eve 2014/2015 in Egypt! :camel:
 * [Pacemaker](https://github.com/katamaritaco/Misc-Projects/tree/master/Pacemaker/distro) - Game made for GGJ 2013. Rhythm/runner game made with some buddies. We made our own engine in html5/js.
 * [AoE II HD Map](https://steamcommunity.com/sharedfiles/filedetails/?id=287287878) - Toughed it out and used the super old map editor to build a mildly popular map in one of the best games of all time :european_castle:
 * [Minecraft Mod](https://github.com/katamaritaco/WhatEverYouWantMinecraft) - Brought :pizza: and overhauled farming :mushroom: alongside a large mod that gives PvP, Skills, and Quests.
-* [C.A.V.E. Virtual Reality Project](https://blogs.discovery.wisc.edu/ds501/category/projects/cave-archeological-virtual-excursions/) - A project I was on a long while ago, where we brought together some neat game and puzzle design to virtual archaeology. I coded up most of the worlds in a proprietary scripting language resembling Python. 
+* [C.A.V.E. Virtual Reality Project](https://blogs.discovery.wisc.edu/ds501/category/projects/cave-archeological-virtual-excursions/) - A project I was on my 2nd year in Uni, where we brought together some neat game and puzzle design to virtual archaeology. I coded up most of the worlds in a proprietary scripting language resembling Python. The project was presented to the public in a multi-million dollar [CAVE setup](https://en.wikipedia.org/wiki/Cave_automatic_virtual_environment).
 
 ## Current Projects and Talks
 * [GitHub](http://github.com/katamaritaco?tab=repositories) - A lot of assorted projects are within [here](https://github.com/katamaritaco/Misc-Projects)
