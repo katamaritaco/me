@@ -25,7 +25,7 @@ This is me on New Years Eve 2014/2015 in Egypt! :camel:
 * [Monologue](http://gamejolt.com/games/monologue/56005) - Game made with [Phildo](https://github.com/Phildo) during the [Train Jam](http://trainjam.com/updates/207), a game jam on a train from Chicago to San Fran.
   * Featured at [GDC](http://www.gdconf.com/), Over 90,000 plays, and Leigh Alexander did an awesome [article on offworld](https://boingboing.net/2015/03/25/play-it-now-monologue.html)!
 * [Wisconsin Game Dev Resources](https://github.com/katamaritaco/WiscoGameDev) - List of resources for game development in Wisconsin
-* [Mosh Ball](https://github.com/katamaritaco/Misc-Projects/tree/master/CS559Proj3/CS559Proj3) - Game made with a partner for Computer Graphics class. Made with OpenGL and Box2d (C++).
+* [Mosh Ball](https://github.com/katamaritaco/Misc-Projects/tree/master/CS559Proj3/CS559Proj3/CS559Proj3) - Game made with a partner for Computer Graphics class. Made with OpenGL and Box2d (C++). Did a bunch of cool shader and shadow stuff.
 * [IGDA GDC Scholars Report](http://scholars.igda.org/former-scholars/) - Writeup about my GDC2015 experience with the IGDA.
 * ["Look Up" Twine](https://github.com/katamaritaco/LookUp) - My attempt at creating a personal, narrative driven experience.
 * [Pacemaker](https://github.com/katamaritaco/Misc-Projects/tree/master/Pacemaker/distro) - Game made for GGJ 2013. Rhythm/runner game made with some buddies. We made our own engine in html5/js, and I worked on a dynamic audio system in web.
