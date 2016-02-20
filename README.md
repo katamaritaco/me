@@ -22,19 +22,19 @@ This is me on New Years Eve 2014/2015 in Egypt! :camel:
 
 
 ## Personal Game stuff
-### Games, Mods, Maps
-* [Monologue](http://gamejolt.com/games/monologue/56005) - Game made with [Phildo](https://github.com/Phildo) during the [Train Jam](http://trainjam.com/updates/207), a game jam on a train from Chicago to San Fran.
+### Games:video_game:, Mods:wrench:, Maps:round_pushpin:
+* :video_game: [Monologue](http://gamejolt.com/games/monologue/56005) - Game made with [Phildo](https://github.com/Phildo) during the [Train Jam](http://trainjam.com/updates/207), a game jam on a train from Chicago to San Fran.
   * :trophy: Featured at [GDC](http://www.gdconf.com/), Over 90,000 plays, and Leigh Alexander did an awesome [article on offworld](https://boingboing.net/2015/03/25/play-it-now-monologue.html)!
-* [Mosh Ball](https://github.com/katamaritaco/Misc-Projects/tree/master/CS559Proj3/CS559Proj3/CS559Proj3) - Game made with a [partner](https://github.com/ndeisinger) for Computer Graphics class in 2013. 
+* :video_game: [Mosh Ball](https://github.com/katamaritaco/Misc-Projects/tree/master/CS559Proj3/CS559Proj3/CS559Proj3) - Game made with a [partner](https://github.com/ndeisinger) for Computer Graphics class in 2013. 
   * Made with OpenGL and Box2d (C++). Did a bunch of cool shader and shadow stuff.
-* ["Look Up" Twine](https://github.com/katamaritaco/LookUp) - My attempt at creating a personal, narrative driven experience.
-* [Pacemaker](https://github.com/katamaritaco/Misc-Projects/tree/master/Pacemaker/distro) - Rhythm/runner game made with some [buddies](https://github.com/melutzke) for GGJ 2013. 
+* :video_game: ["Look Up" Twine](https://github.com/katamaritaco/LookUp) - My attempt at creating a personal, narrative driven experience.
+* :video_game: [Pacemaker](https://github.com/katamaritaco/Misc-Projects/tree/master/Pacemaker/distro) - Rhythm/runner game made with some [buddies](https://github.com/melutzke) for GGJ 2013. 
   * We made our own engine in html5/js, and I worked on a dynamic audio system in web. :musical_score:
-* [Sushi Sensi](https://github.com/katamaritaco/Misc-Projects/blob/master/hackathon/README.md) - A game made in 2 days for a facebook hackathon at UW in 2012. 
+* :video_game: [Sushi Sensi](https://github.com/katamaritaco/Misc-Projects/blob/master/hackathon/README.md) - A game made in 2 days for a facebook hackathon at UW in 2012. 
   * Can teach basic vocabulary in German:de:, Japanese:jp:, and Spanish:es:. Used XNA framework.
-* [AoE II HD Map](https://steamcommunity.com/sharedfiles/filedetails/?id=287287878) - Built a mildly popular map (workshop front page :trophy:) in one of the best games of all time :european_castle:
-* [Minecraft Mod](https://github.com/katamaritaco/WhatEverYouWantMinecraft) - Brought :pizza: and overhauled farming :mushroom: alongside a large mod that gives PvP, Skills, and Quests.
-* [C.A.V.E. VR Project](https://blogs.discovery.wisc.edu/ds501/category/projects/cave-archeological-virtual-excursions/) - Project for 2nd year in Uni, where we brought some neat game/puzzle design to VR. 
+* :round_pushpin: [AoE II HD Map](https://steamcommunity.com/sharedfiles/filedetails/?id=287287878) - Built a mildly popular map (workshop front page :trophy:) in one of the best games of all time :european_castle:
+* :wrench: [Minecraft Mod](https://github.com/katamaritaco/WhatEverYouWantMinecraft) - Brought :pizza: and overhauled farming :mushroom: alongside a large mod that gives PvP, Skills, and Quests.
+* :video_game: [C.A.V.E. VR Project](https://blogs.discovery.wisc.edu/ds501/category/projects/cave-archeological-virtual-excursions/) - Project for 2nd year in Uni, where we brought some neat game/puzzle design to VR. 
   * Coded the worlds and puzzles in a proprietary language. Presented to the public in a multi-million dollar [CAVE](https://en.wikipedia.org/wiki/Cave_automatic_virtual_environment).:moneybag:
 
 
