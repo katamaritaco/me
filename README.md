@@ -49,7 +49,7 @@ I've had a fascination with language since I can remember. I've experience learn
 I'm currently working on a few linguistic focused projects: an etymology of 'dank', an 'awesome-list' of linguistic resources, and possibly a paper on 'intuitive conjectures' in the field. I'll update this more as they progress.
 
 ### Hackathons
-I've learned a lot by attending numerous hackathons and even giving talks about them too! During my 'hack career' I've worked with awesome people to make some amazing hacks. Some examples: A plant that tweets its feelings and a programming IDE that translates real life dance moves into usable python. 
+I've learned a lot by attending, running, and even giving talks at numerous hackathons! During my 'hack career' I've worked across the country with awesome people to make some amazing hacks. Some examples: A plant that tweets its feelings and a programming IDE that translates real life dance moves into usable python. 
 
 Here are some I've attended: BoilerMake, MHacks, hackMIT, HackTech, Facebook Midwest Hack, etc.
 
