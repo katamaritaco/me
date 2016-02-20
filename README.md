@@ -6,7 +6,7 @@ I'm a fifth year undergrad at the University of Wisconsin-Madison, where I'm maj
 
 Last Summer I worked at [Raven Software](http://www.ravensoftware.com/) on [Call of Duty Online](http://callofduty.wikia.com/wiki/Call_of_Duty_Online). Before that, I worked at [Amazon Web Services](https://aws.amazon.com/) as a software development intern. Besides working on some personal projects and things for the [Undergrad Projects Lab](http://www.upl.cs.wisc.edu/), I'm currently contracting some work for AppleTV:green_apple::tv: development with [Flippfly](http://flippfly.com/) while finishing up my degree. 
 
-I also have a site [here](http://nheindl.com/), but I keep this repo more up-to-date. Updating this repo is just so much nicer for me, since I'm always on github. Plus, it is a lot easier to browse through projects :+1::muscle:
+I also have a site [here](http://nheindl.com/), but I keep this repo more up-to-date. Updating this repo is just so much nicer for me, since I'm always on github. It's a lot easier to browse through projects, and has out of the box emoji support:+1::muscle:
 
 
 This is me on New Years Eve 2014/2015 in Egypt! :camel:
@@ -22,17 +22,25 @@ This is me on New Years Eve 2014/2015 in Egypt! :camel:
 
 
 ## Personal Game stuff
+### Games, Mods, Maps
 * [Monologue](http://gamejolt.com/games/monologue/56005) - Game made with [Phildo](https://github.com/Phildo) during the [Train Jam](http://trainjam.com/updates/207), a game jam on a train from Chicago to San Fran.
   * :trophy: Featured at [GDC](http://www.gdconf.com/), Over 90,000 plays, and Leigh Alexander did an awesome [article on offworld](https://boingboing.net/2015/03/25/play-it-now-monologue.html)!
-* [Wisconsin Game Dev Resources](https://github.com/katamaritaco/WiscoGameDev) - List of resources for game development in Wisconsin
-* [Mosh Ball](https://github.com/katamaritaco/Misc-Projects/tree/master/CS559Proj3/CS559Proj3/CS559Proj3) - Game made with a partner for Computer Graphics class. Made with OpenGL and Box2d (C++). Did a bunch of cool shader and shadow stuff.
-* [IGDA GDC Scholars Report](http://scholars.igda.org/former-scholars/) - Writeup about my GDC2015 experience with the IGDA.
+* [Mosh Ball](https://github.com/katamaritaco/Misc-Projects/tree/master/CS559Proj3/CS559Proj3/CS559Proj3) - Game made with a [partner](https://github.com/ndeisinger) for Computer Graphics class in 2013. 
+  * Made with OpenGL and Box2d (C++). Did a bunch of cool shader and shadow stuff.
 * ["Look Up" Twine](https://github.com/katamaritaco/LookUp) - My attempt at creating a personal, narrative driven experience.
-* [Pacemaker](https://github.com/katamaritaco/Misc-Projects/tree/master/Pacemaker/distro) - Game made for GGJ 2013. Rhythm/runner game made with some buddies. We made our own engine in html5/js, and I worked on a dynamic audio system in web.
-* [Sushi Sensi](https://github.com/katamaritaco/Misc-Projects/blob/master/hackathon/README.md) - A game made in 2 days for a facebook hackathon. Can teach basic vocabulary in German:de:, Japanese:jp:, and Spanish:es:. Used XNA framework.
-* [AoE II HD Map](https://steamcommunity.com/sharedfiles/filedetails/?id=287287878) - Toughed it out and used the super old map editor to build a mildly popular map in one of the best games of all time :european_castle:
+* [Pacemaker](https://github.com/katamaritaco/Misc-Projects/tree/master/Pacemaker/distro) - Rhythm/runner game made with some [buddies](https://github.com/melutzke) for GGJ 2013. 
+  * We made our own engine in html5/js, and I worked on a dynamic audio system in web. :musical_score:
+* [Sushi Sensi](https://github.com/katamaritaco/Misc-Projects/blob/master/hackathon/README.md) - A game made in 2 days for a facebook hackathon at UW in 2012. 
+  * Can teach basic vocabulary in German:de:, Japanese:jp:, and Spanish:es:. Used XNA framework.
+* [AoE II HD Map](https://steamcommunity.com/sharedfiles/filedetails/?id=287287878) - Built a mildly popular map (workshop front page :trophy:) in one of the best games of all time :european_castle:
 * [Minecraft Mod](https://github.com/katamaritaco/WhatEverYouWantMinecraft) - Brought :pizza: and overhauled farming :mushroom: alongside a large mod that gives PvP, Skills, and Quests.
-* [C.A.V.E. Virtual Reality Project](https://blogs.discovery.wisc.edu/ds501/category/projects/cave-archeological-virtual-excursions/) - A project I was on my 2nd year in Uni, where we brought together some neat game and puzzle design to virtual archaeology. I coded up most of the worlds in a proprietary scripting language resembling Python. The project was presented to the public in a multi-million dollar [CAVE setup](https://en.wikipedia.org/wiki/Cave_automatic_virtual_environment).
+* [C.A.V.E. VR Project](https://blogs.discovery.wisc.edu/ds501/category/projects/cave-archeological-virtual-excursions/) - Project for 2nd year in Uni, where we brought some neat game/puzzle design to VR. 
+  * Coded the worlds and puzzles in a proprietary language. Presented to the public in a multi-million dollar [CAVE](https://en.wikipedia.org/wiki/Cave_automatic_virtual_environment).:moneybag:
+
+
+### Other Resources
+* [Wisconsin Game Dev Resources](https://github.com/katamaritaco/WiscoGameDev) - List of resources for game development in Wisconsin. :book:
+* [IGDA GDC Scholars Report](http://scholars.igda.org/former-scholars/) - Writeup about my GDC2015 experience with the IGDA. 
 
 ## Current Projects and Talks
 * [GitHub](http://github.com/katamaritaco?tab=repositories) - A lot of assorted projects are within [here](https://github.com/katamaritaco/Misc-Projects)
