@@ -6,7 +6,7 @@ I'm a fifth year undergrad at the University of Wisconsin-Madison, where I'm maj
 
 Last Summer I worked at [Raven Software](http://www.ravensoftware.com/) on [Call of Duty Online](http://callofduty.wikia.com/wiki/Call_of_Duty_Online). Before that, I worked at [Amazon Web Services](https://aws.amazon.com/) as a software development intern. Besides working on some personal projects and things for the [Undergrad Projects Lab](http://www.upl.cs.wisc.edu/), I'm currently contracting some work for AppleTV:green_apple::tv: development with [Flippfly](http://flippfly.com/) while finishing up my degree. 
 
-I also have a site [here](http://nheindl.com/), but I keep this repo more up-to-date. Updating this repo is just so much nicer, and allows me to throw stuff up faster without worrying about some of the cruft that can come with maintaining a traditional personal site (cough cough .css). Plus, it is github, so it is a lot easier to browse through projects :+1:
+I also have a site [here](http://nheindl.com/), but I keep this repo more up-to-date. Updating this repo is just so much nicer for me, since I'm always on github. Plus, it is a lot easier to browse through projects :+1::muscle:
 
 
 This is me on New Years Eve 2014/2015 in Egypt! :camel:
