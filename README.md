@@ -2,16 +2,15 @@
 
 Welcome to my Me (:tm:) profile. Shouts to my friend [L O Z O R D](https://github.com/LOZORD/me) for the idea and inspiration.
 
+![Picture of me in Egypt](nick.jpg)
+
+This is me on New Years Eve 2014/2015 in Egypt! :camel:
+
 I'm a fifth year undergrad at the University of Wisconsin-Madison, where I'm majoring in both [Computer Sciences](http://www.cs.wisc.edu/) :computer: and [Linguistics](http://ling.wisc.edu/) :tongue:, with a certificate/minor in game development :video_game: (I believe I'll be the first person with this too!).
 
 Last Summer I worked at [Raven Software](http://www.ravensoftware.com/) on [Call of Duty Online](http://callofduty.wikia.com/wiki/Call_of_Duty_Online). Before that, I worked at [Amazon Web Services](https://aws.amazon.com/) as a software development intern. Besides working on some personal projects and things for the [Undergrad Projects Lab](http://www.upl.cs.wisc.edu/), I'm currently contracting some work for AppleTV:green_apple::tv: development with [Flippfly](http://flippfly.com/) while finishing up my degree. 
 
 I also have a site [here](http://nheindl.com/), but I keep this repo more up-to-date. Updating this repo is just so much nicer for me, since I'm always on github. It's a lot easier to browse through projects, and has out of the box emoji support:+1::muscle:
-
-
-This is me on New Years Eve 2014/2015 in Egypt! :camel:
-
-![Picture of me in Egypt](nick.jpg)
 
 
 ## Resume
