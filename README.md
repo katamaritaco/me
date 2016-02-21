@@ -15,9 +15,9 @@ I also have a site [here](http://nheindl.com/), but I keep this repo more up-to-
 
 ## Resume
 
-### [Markdown Resume](resume.md) (Has links!)
-
-### [Recent-ish PDF](ResumeNickHeindl2016Spring.pdf) (Purple and Printable!)
+* [Recent 'Games' Resume PDF](ResumeNickHeindl2016SpringGame.pdf) (Purple and Printable!)
+* [Recent-ish 'Big Tech' Resume PDF](ResumeNickHeindl2016SpringTech.pdf) (Purple and Printable!)
+* [Markdown Resume](resume.md) (Has links!) //although this site is basically a resume, init?
 
 
 ## Personal Game stuff
