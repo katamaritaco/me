@@ -1,5 +1,8 @@
 # Nick Heindl Resume
 
+:alert: If you're looking for a PDF: [Game Resume PDF](ResumeNickHeindl2016SpringGame.pdf), [Tech Resume PDF](ResumeNickHeindl2016SpringTech.pdf).
+
+
 ## Professional Experience
 ### [Flippfly Games](http://flippfly.com/) - TBA (2016)
 * Contracted to be responsible for working with Unity3D projects and the new TVOS platform for AppleTV.
