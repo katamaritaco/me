@@ -2,7 +2,9 @@
 
 Welcome to my Me (:tm:) profile. Shouts to my friend [L O Z O R D](https://github.com/LOZORD/me) for the idea and inspiration.
 
-NOTE: I also have a portfolio site [here](http://katamaritaco.github.io/) as well. I will still use this repository since it is easier to browse through code, has sections for my other interests, and has out of the box emoji support:+1::muscle:
+:exclamation:NOTE:exclamation:: I also have a more traditional portfolio site [here](http://katamaritaco.github.io/) as well. 
+
+I will still use this repository since it is easier to browse through code, has sections for my other interests, and has out of the box emoji support:+1::muscle:
 
 ![Picture of me in Egypt](nick.jpg)
 
