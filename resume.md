@@ -28,7 +28,7 @@
 
 ### [Monologue](https://github.com/Phildo/monologue)
 * Hacked up a HTML5/JS typing game with dynamic phrase generation on a train ride from Chicago to San Fran.
-* Featured at GDC, Gamejolt, Offworld, and Vsauce3. >80k Plays. http://gamejolt.com/games/monologue/56005
+* Featured at GDC, Gamejolt, Offworld, and Vsauce3. >90k Plays. http://gamejolt.com/games/monologue/56005
 
 ### [Interactive Dance Environment](https://www.youtube.com/watch?v=FzW7VeBN5ZY)
 * Created a modularized, touchless programming IDE/workflow using two Kinects and a Leap Motion.
