@@ -1,6 +1,6 @@
 # Nick Heindl Resume
 
-:alert: If you're looking for a PDF: [Game Resume PDF](ResumeNickHeindl2016SpringGame.pdf), [Tech Resume PDF](ResumeNickHeindl2016SpringTech.pdf).
+:exclamation: If you're looking for a PDF: [Game Resume PDF](ResumeNickHeindl2016SpringGame.pdf), [Tech Resume PDF](ResumeNickHeindl2016SpringTech.pdf).
 
 
 ## Professional Experience
