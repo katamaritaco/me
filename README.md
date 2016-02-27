@@ -1,7 +1,5 @@
 # Me! Nick Heindl - I love to make things :wrench:
 
-Welcome to my Me (:tm:) profile. Shouts to my friend [L O Z O R D](https://github.com/LOZORD/me) for the idea and inspiration.
-
 :exclamation:NOTE:exclamation:: I also have a more traditional portfolio site [here](http://katamaritaco.github.io/) as well. 
 
 I will still use this repository since it is easier to browse through code, has sections for my other interests, and has out of the box emoji support:+1::muscle:
@@ -9,6 +7,8 @@ I will still use this repository since it is easier to browse through code, has 
 ![Picture of me in Egypt](nick.jpg)
 
 This is me on New Years Eve 2014/2015 in Egypt! :camel:
+
+Welcome to my Me (:tm:) profile. Shouts to my friend [L O Z O R D](https://github.com/LOZORD/me) for the idea and inspiration.
 
 I'm a fifth year undergrad at the University of Wisconsin-Madison, where I'm majoring in both [Computer Sciences](http://www.cs.wisc.edu/) :computer: and [Linguistics](http://ling.wisc.edu/) :tongue:, with a certificate/minor in game development :video_game: (I believe I'll be the first person with this too!).
 
