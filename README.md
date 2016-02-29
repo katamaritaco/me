@@ -23,6 +23,7 @@ Last Summer I worked at [Raven Software](http://www.ravensoftware.com/) on [Call
 
 
 ## Personal Game stuff
+
 ### Games:video_game:, Mods:wrench:, Maps:round_pushpin:
 * :video_game: [Monologue](http://gamejolt.com/games/monologue/56005) - Game made with [Phildo](https://github.com/Phildo) during the [Train Jam](http://trainjam.com/updates/207), a game jam on a train from Chicago to San Fran.
   * :trophy: Featured at [GDC](http://www.gdconf.com/), Over 90,000 plays, and Leigh Alexander did an awesome [article on offworld](https://boingboing.net/2015/03/25/play-it-now-monologue.html)!
@@ -42,6 +43,7 @@ Last Summer I worked at [Raven Software](http://www.ravensoftware.com/) on [Call
 ### Other Resources
 * [Wisconsin Game Dev Resources](https://github.com/katamaritaco/WiscoGameDev) - List of resources for game development in Wisconsin. :book:
 * [IGDA GDC Scholars Report](http://scholars.igda.org/former-scholars/) - Writeup about my GDC2015 experience with the IGDA. 
+
 
 ## Current Projects and Talks
 * [GitHub](http://github.com/katamaritaco?tab=repositories) - A lot of assorted projects are within [here](https://github.com/katamaritaco/Misc-Projects)
