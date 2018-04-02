@@ -40,7 +40,7 @@ My best code is currently in production at Raven and Amazon, but I listed some n
 * :video_game: ["Look Up" Twine](https://github.com/katamaritaco/LookUp) - My attempt at creating a personal, narrative driven experience.
 * :video_game: [Pacemaker](https://github.com/katamaritaco/Misc-Projects/tree/master/Pacemaker/distro) - Rhythm/runner game made with some [buddies](https://github.com/melutzke) for GGJ 2013. 
   * We made our own engine in html5/js, and I worked on a dynamic audio system in web. :musical_score:
-* :video_game: [Sushi Sensi](https://github.com/katamaritaco/Misc-Projects/blob/master/hackathon/README.md) - A game made in 2 days for a facebook hackathon at UW in 2012. 
+* :video_game: [Sushi Sensei](https://github.com/katamaritaco/Misc-Projects/blob/master/hackathon/README.md) - A game made in 2 days for a facebook hackathon at UW in 2012. 
   * Can teach basic vocabulary in German:de:, Japanese:jp:, and Spanish:es:. Used XNA framework.
 * :round_pushpin: [AoE II HD Map](https://steamcommunity.com/sharedfiles/filedetails/?id=287287878) - Built a mildly popular map (workshop front page :trophy:) in one of the best games of all time :european_castle:
 * :wrench: [Minecraft Mod](https://github.com/katamaritaco/WhatEverYouWantMinecraft) - Brought :pizza: and overhauled farming :mushroom: alongside a large mod that gives PvP, Skills, and Quests.
