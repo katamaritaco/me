@@ -1,8 +1,10 @@
 # Me! Nick Heindl - I love to make things :wrench:
 
+* :exclamation:NOTE:exclamation: These are all super old! Check my website for recent info: nheindl.com!
+
 :exclamation:NOTE:exclamation:: I also have a more traditional [portfolio site here](http://katamaritaco.github.io/) as well. 
 
-I will still use this repository since it is easier to browse through code, has sections for my other interests, and has out of the box emoji support:+1::muscle:
+I no longer use this repository, but I keep it here because it reminds me of better times, and has out of the box emoji support:+1::muscle:
 
 ![Picture of me in Egypt](nick.jpg)
 
@@ -12,22 +14,22 @@ Welcome to my Me (:tm:) profile. Shouts to my friend [L O Z O R D](https://githu
 
 :trophy: In 2015, I was chosen as an [IGDA GDC Scholar](http://scholars.igda.org/about-the-scholarships/)! :trophy:
 
-I'm a fifth year undergrad at the University of Wisconsin-Madison, where I'm majoring in both [Computer Sciences](http://www.cs.wisc.edu/) :computer: and [Linguistics](http://ling.wisc.edu/) :tongue:, with a certificate/minor in game development :video_game: (I believe I'll be the first person with this too!).
+I was a fifth year undergrad at the University of Wisconsin-Madison, where I'm majoring in both [Computer Sciences](http://www.cs.wisc.edu/) :computer: and [Linguistics](http://ling.wisc.edu/) :tongue:, with a certificate/minor in game development :video_game: (I believe I'll be the first person with this too!).
 
 Last Summer I worked at [Raven Software](http://www.ravensoftware.com/) on [Call of Duty Online](http://callofduty.wikia.com/wiki/Call_of_Duty_Online). Before that, [Amazon Web Services](https://aws.amazon.com/) as a software development intern. Besides working on personal projects and things for the [Undergrad Projects Lab](http://www.upl.cs.wisc.edu/), I'm currently contracting some work for AppleTV:green_apple::tv: development with [Flippfly](http://flippfly.com/) while finishing up my degree. 
 
 I'm super passionate about learning and improving the world. I was fortunate enough to help teach in Africa:camel: over my 2015 Winter break, and I'm pretty involved in the Madison games and tech communities. I love language, music, and creating things (particularly weird things). Some of my areas of interest: Game and Engine development, AI and Machine Learning, Natural Language and Computational Linguistics, Information Security, and Open Source Development.
 
-I'm currently playing: [TIS-100](http://www.zachtronics.com/tis-100/), [Diablo 3](http://us.battle.net/d3/en/), [Dark Cloud](https://en.wikipedia.org/wiki/Dark_Cloud), [Heroes of the Storm](http://eu.battle.net/heroes/en/), and [The Witness](http://store.steampowered.com/app/210970/)
-
-My best code is currently in production at Raven and Amazon, but I listed some nice projects below. My largest available code sample is [here](https://github.com/fielddaylab/biocore-plant-id-tool) and [here](https://github.com/fielddaylab/AudioVisualizer) :muscle:. Code for my portfolio site is [here](https://github.com/katamaritaco/katamaritaco.github.io).
+I was playing: [TIS-100](http://www.zachtronics.com/tis-100/), [Diablo 3](http://us.battle.net/d3/en/), [Dark Cloud](https://en.wikipedia.org/wiki/Dark_Cloud), [Heroes of the Storm](http://eu.battle.net/heroes/en/), and [The Witness](http://store.steampowered.com/app/210970/)
 
 
 ## Resume
 
+* :exclamation:NOTE:exclamation: These are all super old! Check my website for recent info: nheindl.com!
 * [Recent 'Games' Resume PDF](ResumeNickHeindl2016SpringGame.pdf) (Purple and Printable!)
 * [Recent-ish 'Big Tech' Resume PDF](ResumeNickHeindl2016SpringTech.pdf) (Purple and Printable!)
 * [Markdown Resume](resume.md) (Has links!) //although this site is more interesting, init?
+* :exclamation:NOTE:exclamation: These are all super old! Check my website for recent info: nheindl.com!
 
 
 ## Personal Game stuff
@@ -53,7 +55,7 @@ My best code is currently in production at Raven and Amazon, but I listed some n
 * [IGDA GDC Scholars Report](http://scholars.igda.org/former-scholars/) - Writeup about my GDC2015 experience with the IGDA. 
 
 
-## Current Projects and Talks
+## Some Older Projects and Talks
 * [GitHub](http://github.com/katamaritaco?tab=repositories) - A bunch of code projects here. A lot of assorted projects are within [here](https://github.com/katamaritaco/Misc-Projects)
 * [Project Euler](https://projecteuler.net) - PE is great to actually try to put some of the theory you learn in school to use - and learn a bunch in the process! My highest solved problem is 407, although I did skip around a lot :sunglasses:.
 * Working my way through [Nucl.ai's Game AI course](http://courses.nucl.ai/) and enjoying it a bunch.
